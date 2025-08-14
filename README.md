@@ -22,15 +22,19 @@ Diese Sammlung enthält über 12 professionelle Tools für verschiedene Aspekte 
 ### ⭐ Highlights
 
 - **TenuVault** - Das Haupttool für Backup & Restore (13 ⭐)
-- **IntuneAssignmentChecker** - Zuweisungsanalyse (345 ⭐, 7,207 Downloads)
-- **DeviceOffboardingManager** - Geräte-Offboarding (179 ⭐, 5,239 Downloads)
-- **IntuneBrew** - macOS-App-Management (173 ⭐)
+- **IntuneAssignmentChecker** - Zuweisungsanalyse (345 ⭐, 7,208 Downloads, v3.4.1)
+- **DeviceOffboardingManager** - Geräte-Offboarding (179 ⭐, v0.2.1)
+- **IntuneBrew** - macOS-App-Management (173 ⭐, 508 Apps verfügbar)
+- **IntuneRBAC** - RBAC-Management (86 ⭐, v0.5.0 mit Security Review Dashboard)
 
 ## 🌐 Professionelle Websites
 
 - **[TenuVault.com](https://www.tenuvault.com/)** - Backup & Restore Lösung
 - **[IntuneMonitoring.com](https://www.intunemonitoring.com/)** - Azure Workbook Templates
 - **[IntuneOffboarding.com](https://intuneoffboarding.com/)** - Device Offboarding Manager
+- **[IntuneBrew.com](https://www.intunebrew.com/)** - macOS App Management (508 Apps, 1,975 Admins)
+- **[IntuneAutomation.com](https://www.intuneautomation.com/)** - PowerShell Scripts für Automatisierung
+- **[IntuneAssignmentChecker.ugurkoc.de](https://intuneassignmentchecker.ugurkoc.de/)** - Zuweisungsanalyse Tool
 
 ## 🛠️ Installation
 
@@ -67,5 +71,5 @@ Besuchen Sie die individuellen GitHub-Repositories für Beiträge und Issues.
 
 ---
 
-*Dokumentation erstellt von: Philipp Schmidt | Version: V1.0 | Stand: August 2025*
+*Dokumentation erstellt von: Philipp Schmidt | Version: V1.1 | Stand: August 2025*
 
