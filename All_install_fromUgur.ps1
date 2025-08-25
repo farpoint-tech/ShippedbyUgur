@@ -239,6 +239,19 @@ $Tools = @{
         Author = 'Ugur Koc'
         Features = @('Security Review Dashboard', 'Health Score 0-100', 'Risk Assessment', 'Interactive Reports')
     }
+    'brewpkg' = @{
+        Name = 'brewpkg'
+        Description = 'Package management tool'
+        InstallCommand = 'Custom' # GitHub Clone
+        Category = 'Standard'
+        Priority = 11
+        RequiresPowerShell7 = $false
+        RequiresAdmin = $false
+        Dependencies = @()
+        GitHub = 'https://github.com/ugurkocde/brewpkg'
+        Author = 'Ugur Koc'
+        Features = @('Package Management', 'Tool Installation', 'Dependency Management')
+    }
 }
 
 # Logging-Funktionen

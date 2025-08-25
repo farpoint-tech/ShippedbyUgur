@@ -168,6 +168,21 @@ const App = () => {
       version: 'v0.5.0',
       icon: <Rocket className="w-6 h-6" />,
       color: 'from-purple-400 to-purple-600'
+    },
+    {
+      id: 'brewpkg',
+      name: 'brewpkg',
+      author: 'Ugur Koc',
+      description: 'Package management tool',
+      category: 'standard',
+      priority: 11,
+      features: ['Package Management', 'Tool Installation', 'Dependency Management'],
+      github: 'https://github.com/ugurkocde/brewpkg',
+      installation: 'GitHub Clone',
+      downloads: 'N/A',
+      version: 'Latest',
+      icon: <Wrench className="w-6 h-6" />,
+      color: 'from-green-400 to-green-600'
     }
   ];
 
@@ -254,7 +269,7 @@ const App = () => {
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
               <div className="bg-white rounded-lg p-4 shadow-md">
-                <div className="text-2xl font-bold text-orange-600">10+</div>
+                <div className="text-2xl font-bold text-orange-600">11+</div>
                 <div className="text-gray-600">Professionelle Tools</div>
               </div>
               <div className="bg-white rounded-lg p-4 shadow-md">
