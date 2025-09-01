@@ -475,6 +475,109 @@ const App = () => {
         </div>
       </div>
 
+      {/* Professionelle Websites Section */}
+      <div className="bg-gradient-to-r from-blue-50 to-orange-50 border-t-4 border-gradient-to-r from-blue-500 to-orange-500">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+          <div className="text-center mb-8">
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">🌐 Professionelle Websites</h2>
+            <p className="text-xl text-gray-600">Spezialisierte Web-Tools und Services für Intune Management</p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <a href="https://www.tenuvault.com/" target="_blank" rel="noopener noreferrer" className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow p-6 block">
+              <div className="flex items-center mb-4">
+                <div className="bg-blue-500 text-white p-3 rounded-lg mr-4">
+                  <Globe className="w-6 h-6" />
+                </div>
+                <div>
+                  <h3 className="text-lg font-bold text-gray-900">TenuVault.com</h3>
+                  <p className="text-sm text-gray-600">Backup & Restore Lösung</p>
+                </div>
+              </div>
+              <p className="text-gray-700">Automatisierte Backups und One-Click Restore für Intune-Umgebungen</p>
+            </a>
+
+            <a href="https://www.intunemonitoring.com/" target="_blank" rel="noopener noreferrer" className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow p-6 block">
+              <div className="flex items-center mb-4">
+                <div className="bg-green-500 text-white p-3 rounded-lg mr-4">
+                  <Globe className="w-6 h-6" />
+                </div>
+                <div>
+                  <h3 className="text-lg font-bold text-gray-900">IntuneMonitoring.com</h3>
+                  <p className="text-sm text-gray-600">Azure Workbook Templates</p>
+                </div>
+              </div>
+              <p className="text-gray-700">Dashboard in 60 Sekunden mit Real-time Monitoring Templates</p>
+            </a>
+
+            <a href="https://intuneoffboarding.com/" target="_blank" rel="noopener noreferrer" className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow p-6 block">
+              <div className="flex items-center mb-4">
+                <div className="bg-purple-500 text-white p-3 rounded-lg mr-4">
+                  <Globe className="w-6 h-6" />
+                </div>
+                <div>
+                  <h3 className="text-lg font-bold text-gray-900">IntuneOffboarding.com</h3>
+                  <p className="text-sm text-gray-600">Device Offboarding Manager</p>
+                </div>
+              </div>
+              <p className="text-gray-700">Multi-Service Integration für Geräte-Offboarding</p>
+            </a>
+
+            <a href="https://www.intunebrew.com/" target="_blank" rel="noopener noreferrer" className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow p-6 block">
+              <div className="flex items-center mb-4">
+                <div className="bg-orange-500 text-white p-3 rounded-lg mr-4">
+                  <Globe className="w-6 h-6" />
+                </div>
+                <div>
+                  <h3 className="text-lg font-bold text-gray-900">IntuneBrew.com</h3>
+                  <p className="text-sm text-gray-600">macOS App Management</p>
+                </div>
+              </div>
+              <p className="text-gray-700">508 Apps verfügbar, 1,975+ Admins nutzen es weltweit</p>
+            </a>
+
+            <a href="https://www.intuneautomation.com/" target="_blank" rel="noopener noreferrer" className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow p-6 block">
+              <div className="flex items-center mb-4">
+                <div className="bg-yellow-500 text-white p-3 rounded-lg mr-4">
+                  <Globe className="w-6 h-6" />
+                </div>
+                <div>
+                  <h3 className="text-lg font-bold text-gray-900">IntuneAutomation.com</h3>
+                  <p className="text-sm text-gray-600">PowerShell Scripts</p>
+                </div>
+              </div>
+              <p className="text-gray-700">Automatisierungsscripts und Best Practices für Intune</p>
+            </a>
+
+            <a href="https://intuneassignmentchecker.ugurkoc.de/" target="_blank" rel="noopener noreferrer" className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow p-6 block">
+              <div className="flex items-center mb-4">
+                <div className="bg-teal-500 text-white p-3 rounded-lg mr-4">
+                  <Globe className="w-6 h-6" />
+                </div>
+                <div>
+                  <h3 className="text-lg font-bold text-gray-900">IntuneAssignmentChecker</h3>
+                  <p className="text-sm text-gray-600">Zuweisungsanalyse Tool</p>
+                </div>
+              </div>
+              <p className="text-gray-700">Interactive HTML Reports für Zuweisungsanalyse</p>
+            </a>
+
+            <a href="https://www.intunedocumentation.com/" target="_blank" rel="noopener noreferrer" className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow p-6 block">
+              <div className="flex items-center mb-4">
+                <div className="bg-indigo-500 text-white p-3 rounded-lg mr-4">
+                  <Globe className="w-6 h-6" />
+                </div>
+                <div>
+                  <h3 className="text-lg font-bold text-gray-900">IntuneDocumentation.com</h3>
+                  <p className="text-sm text-gray-600">PDF-Dokumentationsgenerator</p>
+                </div>
+              </div>
+              <p className="text-gray-700">Kostenloser Generator für professionelle Intune-Dokumentation</p>
+            </a>
+          </div>
+        </div>
+      </div>
+
       {/* Footer */}
       <footer className="bg-gray-900 text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">

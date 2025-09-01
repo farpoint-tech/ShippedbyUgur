@@ -35,6 +35,7 @@ Diese Sammlung enthält über 12 professionelle Tools für verschiedene Aspekte 
 - **[IntuneBrew.com](https://www.intunebrew.com/)** - macOS App Management (508 Apps, 1,975 Admins)
 - **[IntuneAutomation.com](https://www.intuneautomation.com/)** - PowerShell Scripts für Automatisierung
 - **[IntuneAssignmentChecker.ugurkoc.de](https://intuneassignmentchecker.ugurkoc.de/)** - Zuweisungsanalyse Tool
+- **[IntuneDocumentation.com](https://www.intunedocumentation.com/)** - Kostenloser PDF-Dokumentationsgenerator
 
 ## 🛠️ Installation
 
