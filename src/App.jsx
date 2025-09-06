@@ -484,6 +484,19 @@ const App = () => {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <a href="https://www.ugurlabs.com/" target="_blank" rel="noopener noreferrer" className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow p-6 block border-2 border-orange-200">
+              <div className="flex items-center mb-4">
+                <div className="bg-gradient-to-r from-orange-500 to-blue-500 text-white p-3 rounded-lg mr-4">
+                  <Globe className="w-6 h-6" />
+                </div>
+                <div>
+                  <h3 className="text-lg font-bold text-gray-900">UgurLabs.com</h3>
+                  <p className="text-sm text-orange-600 font-semibold">🏠 Zentrale Hub-Website</p>
+                </div>
+              </div>
+              <p className="text-gray-700">Zentrale Anlaufstelle für alle kostenlosen Intune-Tools von Ugur Koc</p>
+            </a>
+
             <a href="https://www.tenuvault.com/" target="_blank" rel="noopener noreferrer" className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow p-6 block">
               <div className="flex items-center mb-4">
                 <div className="bg-blue-500 text-white p-3 rounded-lg mr-4">

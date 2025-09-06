@@ -29,6 +29,7 @@ Diese Sammlung enthält über 12 professionelle Tools für verschiedene Aspekte 
 
 ## 🌐 Professionelle Websites
 
+- **[UgurLabs.com](https://www.ugurlabs.com/)** - Zentrale Hub-Website für alle kostenlosen Intune-Tools
 - **[TenuVault.com](https://www.tenuvault.com/)** - Backup & Restore Lösung
 - **[IntuneMonitoring.com](https://www.intunemonitoring.com/)** - Azure Workbook Templates
 - **[IntuneOffboarding.com](https://intuneoffboarding.com/)** - Device Offboarding Manager
